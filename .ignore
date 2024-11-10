@@ -1,0 +1,27 @@
+# Ignorer les fichiers de configuration
+*.env
+*.config
+
+# Ignorer les fichiers de compilation
+*.o
+*.out
+*.exe
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorer les dossiers de dépendances
+node_modules/
+venv/
+env/
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.log
+
+# Ignorer les fichiers de compilation Node.js
+dist/
+build/
+
+# Ignorer les fichiers de compilation Python
+__pycache__/
